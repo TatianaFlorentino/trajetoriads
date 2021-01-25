@@ -1,6 +1,6 @@
 # Trajetória
 
-![](https://github.com/TatianaFlorentino/trajetoria/blob/7677823a87184296885957db03cc14fda9999459/4.jpg?W=312?h=712)
+![](https://github.com/TatianaFlorentino/trajetoria/blob/7677823a87184296885957db03cc14fda9999459/4.jpg)
 
 <h1>Falamos</h1>
 Foco: Python, Data Science, Deep Learning 
@@ -22,5 +22,17 @@ Atualmente, sou Product Manager ou produteira voltada para empresa digital ou st
 Abaixo meu linkedin
 
 https://www.linkedin.com/in/tatiana-florentino-52179010/
+
+
+<h1>Alguns Notebooks:</h1>
+Os tutoriais publicados estão descrito no próprio notebook e dicas no instagram:
+
+<h1> Kaggle,</h1> uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
+<ol>
+<li>Data Science: Investigando o naufrágio do Titanic:em andamento</li>
+</ol>
+
+
+
 
 
