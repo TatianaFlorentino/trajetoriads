@@ -5,10 +5,11 @@
 <h1>Falamos sobre Python, Data Science, Deep Learning </h1>
 
 
-Esse espaço git é uma iniciativa pessoal para divulgar repositório  notebooks e códigos Python voltada para trajetória DataScience, cada arquivo deste repositório é parte de um artigo do instagram objetivo  tornar mais acessível os conteúdos da área de Inteligência Artificial e Python e incentivar mais mulheres nessa trajetória.
-Segue abaixo detalhes do instangram com dicas e sugestões desse mundo.
-
+Esse espaço github é uma iniciativa pessoal para divulgar repositório  notebooks e códigos Python voltada para trajetória DataScience.
+Cada arquivo deste repositório esta associado com dicas no instagram 
 https://www.instagram.com/trajetoria_datascience/?hl=pt
+objetivo  tornar mais acessível os conteúdos da área de Inteligência Artificial e Python e incentivar mais mulheres nessa trajetória de estudos e carreira.
+
 
 <h1>Sobre mim:</h1>
 Atualmente, sou Product Manager ou produteira voltada para empresa digital ou startup e nas horas livres estou tendo uma experiência com os conteúdos Data Science, Python, Deep Learning
