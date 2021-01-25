@@ -12,11 +12,12 @@ https://www.instagram.com/trajetoria_datascience/?hl=pt
 
 <h1>Sobre mim:</h1>
 Atualmente, sou Product Manager ou produteira voltada para empresa digital ou startup e nas horas livres estou tendo uma experiência com os conteúdos Data Science, Python, Deep Learning
-
-Graduação em Tecnologia Desenvolvimento de Software pela FIAP.
-MBA em Arquitetura de Soluções e Tecnologias pela FIAP.
-MBA em Analicts e Datascience pela USP-ESALQ.
-Curso de imerção ao mundo DataScience.
+<ol>
+<li>Graduação em Tecnologia Desenvolvimento de Software pela FIAP.</li>
+<li>MBA em Arquitetura de Soluções e Tecnologias pela FIAP.</li>
+<li>MBA em Analicts e Datascience pela USP-ESALQ.</li>
+<li>Curso de imerção ao mundo DataScience.</li>
+</ol>
 
 Abaixo meu linkedin
 
