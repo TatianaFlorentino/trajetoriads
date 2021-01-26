@@ -30,7 +30,11 @@ Os tutoriais publicados estão descrito no próprio notebook e dicas no instagra
 
 <h1> Kaggle:</h1> E uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
 <ol>
-<li>Data Science: Primeiros passos com Python:https://github.com/TatianaFlorentino/trajetoria/blob/main/Overview_python.ipynb</li>
+<li>Data Science: Primeiros passos com Python:
+https://github.com/TatianaFlorentino/trajetoria/blob/main/Overview_python.ipynb</li>
+<li> Para começar a brincar com python não é necessario instalar nada local Ambiente colaborativo da Google Colab na nuvem  poderosa e gratuita :
+Abaixo um exemplo:
+https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N</li>
 
 <li>Data Science: Investigando o naufrágio do Titanic:em andamento</li>
 </ol>
