@@ -30,6 +30,8 @@ Os tutoriais publicados estão descrito no próprio notebook e dicas no instagra
 
 <h1> Kaggle:</h1> E uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
 <ol>
+<li>Data Science: Primeiros passos com Python: https://github.com/TatianaFlorentino/trajetoria/blob/main/Overview_python.ipynb</li>
+
 <li>Data Science: Investigando o naufrágio do Titanic:em andamento</li>
 </ol>
 
