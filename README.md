@@ -28,18 +28,17 @@ https://www.linkedin.com/in/tatiana-florentino-52179010/
 <h1>Alguns Notebooks:</h1>
 Os tutoriais publicados estão descrito no próprio notebook e dicas no instagram:
 
-<h1> Kaggle:</h1> E uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
+
 <ol>
-<li>Data Science: Primeiros passos com Python:
-https://github.com/TatianaFlorentino/trajetoria/blob/main/Overview_python.ipynb</li>
-<li> Para começar a brincar com python não é necessario instalar nada local Ambiente colaborativo da Google Colab na nuvem  poderosa e gratuita :
+<li>Data Science: Primeiros passos: 
+Para começar a brincar com python não é necessario instalar nada local na Google Colab tem uma ferramenta poderosa - 100 % na nuvem  e gratuita  para começar:
 Abaixo um exemplo:
 https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N</li>
 
-<li>Data Science: Investigando o naufrágio do Titanic:em andamento</li>
+
 </ol>
 
-
+<h1> Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.</h1> 
 
 
 
