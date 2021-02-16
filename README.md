@@ -38,7 +38,9 @@ https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scroll
 
 </ol>
 
-<h1> Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.</h1> 
+ Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
+
+ 
 
 
 
