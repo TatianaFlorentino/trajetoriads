@@ -32,15 +32,18 @@ Os tutoriais publicados estão descrito no próprio notebook e dicas no instagra
 <ol>
 <li>Data Science: Primeiros passos: 
 Para começar a brincar com python não é necessario instalar nada local na Google Colab tem uma ferramenta poderosa - 100 % na nuvem  e gratuita  para começar:
+  
 Abaixo um exemplo:
 https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N</li>
 
 
 </ol>
 
- Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.
+PROJETOS
+https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju
 
- 
+
+<h1> Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.</h10 
 
 
 
