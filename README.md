@@ -29,20 +29,20 @@ https://www.linkedin.com/in/tatiana-florentino-52179010/
 Os tutoriais publicados estão descrito no próprio notebook e dicas no instagram:
 
 
-# Data Science: Primeiros passos: 
+### Data Science: Primeiros Passos: 
 Para começar a brincar com python não é necessario instalar nada local com Google Colab tem uma ferramenta poderosa - 100 % na nuvem  e gratuita  para começar:
   
-# Python
-https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N
+### Python
+[Primeiros Passos](https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N)
 
 
-# PROJETOS DE ESTUDOS
+### PROJETOS DE ESTUDOS
 
-## COMO CRIAR UMA NUVEM DE PALAVRAS
-https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju
+### COMO CRIAR UMA NUVEM DE PALAVRAS
+[Nuvem de Palavras com Python](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju)
 
 
-# PRIMEIROS PASSOS COM DEEP LEARNING 
+### PRIMEIROS PASSOS COM DEEP LEARNING 
 [Mostrar pixels de uma imagem](https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb)
 
 
