@@ -29,21 +29,21 @@ https://www.linkedin.com/in/tatiana-florentino-52179010/
 Os tutoriais publicados estão descrito no próprio notebook e dicas no instagram:
 
 
-<ol>
-<li>Data Science: Primeiros passos: 
-Para começar a brincar com python não é necessario instalar nada local na Google Colab tem uma ferramenta poderosa - 100 % na nuvem  e gratuita  para começar:
+# Data Science: Primeiros passos: 
+Para começar a brincar com python não é necessario instalar nada local com Google Colab tem uma ferramenta poderosa - 100 % na nuvem  e gratuita  para começar:
   
-Abaixo um exemplo:
-https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N</li>
+# Python
+https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=5Se9fJ3VFV1N
 
 
-</ol>
+# PROJETOS DE ESTUDOS
 
-PROJETOS
+## COMO CRIAR UMA NUVEM DE PALAVRAS
 https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju
 
 
-<h1> Kaggle: uma subsidiária da Google LLC, é uma comunidade on-line de cientistas de dados e profissionais de aprendizado de máquina.</h10 
+# PRIMEIROS PASSOS COM DEEP LEARNING 
+[Mostrar pixels de uma imagem](https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb)
 
 
 
