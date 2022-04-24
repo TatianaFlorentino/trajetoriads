@@ -1,1 +1,0 @@
-TCC Mineração de Dados baseado na pesquisa COVIDiSTRESS sobre COVID-19
