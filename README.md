@@ -15,50 +15,63 @@ O Microsoft Power Business Intelligence (Power BI) também é uma ferramenta cru
 
 **NO CONJUNTO DE DADOS**
 Durante meu Case recebi um conjunto de dados para explorar minhas habilidades de análise de dados usando o Power BI. 
-Em resumo, o conjunto de dados consiste em vinte e duas (10) colunas e mais de 5.000 linhas rotuladas como ID de linha, ID do pedido, Data do pedido, Data de envio, Modo de envio, ID do cliente, Nome do cliente, Segmento, País, Cidade, Estado, Postal Código, região, ID do produto, categoria, subcategoria, nome do produto, vendas, quantidade, desconto, lucro e margem de lucro. Abaixo o head dataframe
+Em resumo, o conjunto de dados consiste em vinte e duas (12) colunas e mais de 3211 linhas rotuladas como ( ID_Pedido, Data_Pedido, ID_Representante, Nome_Representante, Regional, ID_Produto, 
+Nome_Produto, Valor_Produto, Quantidade_Vendida, Valor_Total_Venda, Nome_Cliente, Cidade_Cliente, Estado_Cliente)
+ Abaixo o head dataframe
 
 **LIMPAR O CONJUNTO DE DADOS**
 Conforme discutido anteriormente em meu projeto anterior, a importância da limpeza de dados não pode ser exagerada para se obter um resultado adequado na visualização. Meu procedimento de limpeza no Excel consiste em excluir espaços em branco e duplicatas e convertê-los em uma tabela com formatação de cores.
+
 **Baixando PoweR BI ou Atualizando**
 Depois de iniciar meu Power BI Desktop, que baixei de seu site, carreguei os dados no programa aplicativo usando a opção obter dados, onde posso usar a consulta avançada para fazer algumas alterações adicionais, como agrupar colunas relevantes (como localização , cidade, estado, região, código postal, país, entre outras colunas agrupadas), adicionando e excluindo colunas quando apropriado, separando tabelas de fatos de tabelas de dimensão, identificando chaves primárias (ou seja, aquela com o valor mais baixo em cada grupo), e assim por diante .
 
-Segue o link para baixar o power bi
-
 Figure 1: Tabela e Data view
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/c4318156-3b16-4218-89fc-f68000a8c54f)
 
-Depois de importar meu conjunto de dados para o Power BI, consegui ver o link entre minha tabela de fatos e minha tabela de dimensões usando a visualização do modelo.
-
+Depois de importar meu conjunto de dados para o Power BI, consegui ver o link entre minha tabela usando a visualização do modelo.
 Figura 2: Visualização da tabela e suas respectivas colunas a modelagem não era complexa com  relação entre tabelas de fatos e dimensões
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/6f7192e9-7a0b-4481-b6e5-b40ea52ecd57)
 
-
+Usei Base_Dados como referência para usar para achar as respostas das inferências.
 
 **ANÁLISE DE DADOS**
+Criei um layout para apresentação dos dashboards 
 
-Como a visualização às vezes é chamada de “a face de todo estudo”, muito trabalho foi dedicado a ela, inclusive em termos de formatação de página, formatação visual, layout visual e muitas outras áreas.
-
-Página de visão geral: esta página exibe vendas totais de mais de dois milhões com lucro total de mais de duzentos mil em quarenta e nove estados, em três categorias de produtos.
-
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/14a87544-43c5-46ee-8d86-e2a5ca4388da)
 
 Figura 3: página Visão geral
 
-Desconto Regional: Os clientes da região Centro tiveram mais descontos, seguidos pelos da região Leste, Oeste e Sul.
+Foco em responder a primeira inferência >  Qual a receita obtida por vendedor ? : Fiz a escolha do gráfico de barras clusterizado, obtendo dados da coluna Valor Total Venda e Nome Representante
+
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/afaeb129-6f5b-4671-b96c-54de04604690)
+
+Seguindo  a segunda inferência > Qual a receita obtida por cada regional? Fiz a escolha do gráfico de rosca, obtendo os dados da coluna Valor Total Venda e Regional
+
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/37bbd14c-3a3b-40a1-ac64-87462be5e21b)
+
+Continuando a responder a terceira inferência > Qual a receita obtida por cada cliente? Fiz a escolha do gráfico coluna empilhada  obtendo os dados Valor Total Venda e Cliente
+
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/4ed02ac3-8543-46e3-9b0a-8fe61efe61bf)
+
+Como gráfico adicional para responder informações acima citadas, segmentadas em cada um dos estados, para uma análise mais profunda. Por fim, o gerente informou ainda que não tem tanto conhecimento nas possibilidades do Power BI, então foi adicionado "segmentação de dados para filtrar estado do cliente"
+
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/85b06676-adce-4c84-b2c9-47650e5b3f94)
+
+Para responder mais questionamentos adicionado um gráfico de dispersão obtendo os dados de valor total de venda, quantidade venda, nome do produto 
+
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/99934a74-f2a3-4542-9284-3d72679fec4a)
+
+Figura 4: Adicionei 3 visualizações tipo "cartões"  para representar Receita Total, Total itens vendidos, quantidade de pedidos
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/bade5d22-eb43-4c2e-8ed3-f14df6bb17f7)
+
+Como a visualização às vezes é chamada de “a face de todo estudo”, muito trabalho foi dedicado a ela, inclusive em termos de formatação de página, formatação visual, layout visual e muitas outras áreas.
+Página de visão geral: esta página exibe vendas responde todas as perguntas do case com layout bacana!
+
+ ![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/a6e4357b-169c-4f64-a971-ad8c1e07c150)
+
+Recomendações Futuras: Devem ser atribuídas posteriormente alguns tooltips para detalhar informações de produtos, representante
 
 
-Coloquei alguns tooltip para evoluir com algumas visões do meu case.
-
-
-Figura 4: Desconto por região no gráfico de barras
-
-Lucro Categórico: Os produtos vendidos foram categorizados em três; Tecnologia, material de escritório, Móveis com 50,79, 42,77 e 6,44 com percentual de lucro respectivamente.
- 
-
-Figura 7: Gráfico de oferta regional em áreas empilhadas
-
-Lucro por cidade: Nova York, Los Angeles, Seattle, São Francisco e Detroit assumiram a liderança das cidades em lucro.
-
-Recomendações: Devem ser atribuídas mais ofertas de descontos aos clientes ocidentais, de modo a aumentar as vendas, embora obtenham mais fornecimentos, o que também é uma forma de realizar mais vendas.
-
-Em resumo, estando no século 21, a tecnologia, especialmente o telefone, mostrou que pode ser a linha de frente para outros produtos, realizando cerca de 33.000 vendas. Cerca de 20,5% de lucro foi obtido no oeste, principalmente na cidade de Nova York, mesmo com menor quantidade ofertada.
 
 
 
