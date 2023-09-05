@@ -23,7 +23,7 @@ Nome_Produto, Valor_Produto, Quantidade_Vendida, Valor_Total_Venda, Nome_Cliente
 Conforme discutido anteriormente em meu projeto anterior, a importância da limpeza de dados não pode ser exagerada para se obter um resultado adequado na visualização. Meu procedimento de limpeza no Excel consiste em excluir espaços em branco e duplicatas e convertê-los em uma tabela com formatação de cores.
 
 **Baixando PoweR BI ou Atualizando**
-Depois de iniciar meu Power BI Desktop, que baixei de seu site, carreguei os dados no programa aplicativo usando a opção obter dados, onde posso usar a consulta avançada para fazer algumas alterações adicionais, como agrupar colunas relevantes (como localização , cidade, estado, região, código postal, país, entre outras colunas agrupadas), adicionando e excluindo colunas quando apropriado, separando tabelas de fatos de tabelas de dimensão, identificando chaves primárias (ou seja, aquela com o valor mais baixo em cada grupo), e assim por diante .
+Depois de iniciar meu Power BI Desktop, que baixei de seu site, carreguei os dados no programa aplicativo usando a opção obter dados, onde posso usar a consulta avançada para fazer algumas alterações adicionais, como agrupar colunas relevantes (ID_Pedido, Data_Pedido, ID_Representante, Nome_Representante, Regional, ID_Produto, Nome_Produto, Valor_Produto, Quantidade_Vendida, Valor_Total_Venda, Nome_Cliente, Cidade_Cliente, Estado_Cliente, entre outras colunas agrupadas), adicionando e excluindo colunas quando apropriado, identificando chaves primárias (ou seja, aquela com o valor mais baixo em cada grupo), e assim por diante .
 
 Figure 1: Tabela e Data view
 ![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/c4318156-3b16-4218-89fc-f68000a8c54f)
