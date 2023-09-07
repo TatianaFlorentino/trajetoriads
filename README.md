@@ -1,6 +1,6 @@
 #  Projeto de Acompanhamento de Vendas  em Power BI
 
-![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/1d174595-e9a1-4b09-a294-f625e95a8da8)
+![image](https://github.com/TatianaFlorentino/trajetoriads/blob/main/img/Case_PowerBI.gif)
 
 Supondo que um gerente ou analista de vendas foi solicitado a apresentar à alta administração, às partes interessadas ou a outras partes relevantes um relatório de vendas 
 Você recebeu uma base de dados de Vendas, do ano de 2020, de uma empresa que vende equipamentos eletrônicos para alguns grandes clientes corporativos.
