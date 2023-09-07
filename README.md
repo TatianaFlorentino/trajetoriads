@@ -1,9 +1,14 @@
-![logo_tatiana_florentino](https://user-images.githubusercontent.com/37356058/131255528-265f5bca-609f-45e8-a574-b77b8d542381.png#vitrinedev)
+![image](https://github.com/TatianaFlorentino/trajetoriads/assets/41309689/ebdb52e2-b29d-4855-aaec-72429a6a667a)
+
+## Desenvolvedores
+| [<img src="https://avatars.githubusercontent.com/tatianaflorentino?v=4" width=115><br><sub>Tatiana Florentino</sub>](https://github.com/TatianaFlorentino) | 
 
 <hr>
 
 
 ### Tópicos 
+
+- [Desenvolvedores](#desenvolvedores)
 
 - [Status do Projeto](#status-do-projeto)
 
@@ -27,7 +32,7 @@
 
 - [Etapas do Projeto](tapas-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+
 
 ## Status do Projeto
 
@@ -161,8 +166,7 @@ Página de visão geral: esta página exibe vendas responde todas as perguntas d
 
 Recomendações Futuras: Devem ser atribuídas posteriormente alguns tooltips para detalhar informações de produtos, representante
 
-## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/tatianaflorentino?v=4" width=115><br><sub>Tatiana Florentino</sub>](https://github.com/TatianaFlorentino) | 
+
 
 
 
