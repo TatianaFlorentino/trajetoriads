@@ -76,11 +76,11 @@ mas que gostaria de ter mais visões interessantes sobre os dados da empresa. Co
 
 :heavy_check_mark: `Visualização 1:` Plotar gráfico com receita obtida por vendedor
 
-:heavy_check_mark: `Visualização  2:` Plotar gráfico com receita obtida por cada regional
+:heavy_check_mark: `Visualização 2:` Plotar gráfico com receita obtida por cada regional
 
 :heavy_check_mark: `Visualização 3:` Plotar gráfico com receita obtida por cada cliente
 
-:heavy_check_mark: `Visualização  4:` Plotar gráfico com receita obtida por produto
+:heavy_check_mark: `Visualização 4:` Plotar gráfico com receita obtida por produto
 
 ## Aplicação
 
