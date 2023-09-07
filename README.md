@@ -112,11 +112,11 @@ mas que gostaria de ter mais visões interessantes sobre os dados da empresa. Co
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto pbx](https://github.com/camilafernanda/GlicoCare)  
+Planilha excel está em csv, converta em xls para trabalhar no power bi [baixá-lo](https://github.com/TatianaFlorentino/trajetoriads/blob/main/1%20-%20Base%20de%20Dados.csv).
 
-planilha excel [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do power bi, famoso  pbix](https://github.com/TatianaFlorentino/trajetoriads/blob/main/Case_Vendas.pbix)  
 
-imagens [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Plano de Fundo [baixá-lo](https://github.com/TatianaFlorentino/trajetoriads/blob/main/Plano%20de%20Fundo%20-%20Dashboard%20de%20Vendas%20(PC).pptx).
 
 ## Abrir e rodar o projeto
 
