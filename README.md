@@ -64,10 +64,11 @@ como agrupar colunas relevantes
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento de um case para mostrar habilidades no uso do power bi da microsoft tem referência a visualização dos dados. O Logo da empresa aqui é ficticio 
+   
+Projeto em desenvolvimento de um case para mostrar habilidades no uso do power bi da microsoft tem referência a visualização dos dados. O Logo da empresa aqui é ficticio 
 O relatório permitirá o monitoramento diário, contínuo das vendas, possibilitando que gestores,  acompanhem as vendas por representante, regional, estado, produtos mais vendidos, clientes em potencial.
 
-![Descrição do case, Você recebeu uma base de dados de Vendas, do ano de 2020, de uma empresa que vende equipamentos eletrônicos para alguns grandes clientes corporativos. 
+Descrição do case, Você recebeu uma base de dados de Vendas, do ano de 2020, de uma empresa que vende equipamentos eletrônicos para alguns grandes clientes corporativos. 
 Você tem o desafio de analisar estas bases de dados e construir um relatório que responda as seguintes perguntas:
 * Qual a receita obtida por vendedor? 
 * Qual a receita obtida por cada regional? 
